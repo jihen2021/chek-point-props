@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  
+}
+
+.names{
+  background-color: aquamarine;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+.adresse{
+  background-color: bisque;
+  font-family: 'Times New Roman', Times, serif;
+}
